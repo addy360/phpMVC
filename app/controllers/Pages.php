@@ -10,7 +10,7 @@
 			$data = [
 				'posts' => $posts,
 				'welcome'=> 'Hey hi, let\'s have fun,' ,
-				'title'=> 'Addy360 Mini framework'
+				'title'=> 'The mini framework'
 			];
 			$this->view('pages/welcome', $data);
 		}
