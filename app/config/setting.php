@@ -4,7 +4,7 @@
 	define('APPROOT', dirname(dirname(__FILE__)));
 	
 	define('URLROOT','http://localhost/Mymvc');
-	define('SITENAME','Addy360 framework');
+	define('SITENAME','Addy360 php framework');
 
 
 
